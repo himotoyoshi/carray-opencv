@@ -1,6 +1,6 @@
 require "opencv"
 require "carray"
-require "carray/graphics/opencv"
+#require "carray/graphics/opencv"
 
 include OpenCV
 
